@@ -1,7 +1,7 @@
 {
-    "name": "nec-cli",
-    "version": "1.0.0",
-    "description": "",
+    "name": "@kroc823/nec",
+    "version": "0.0.3",
+    "description": "美碧软件cli项目脚手架",
     "main": "index.js",
     "bin": {
         "nec": "./bin/index.js"
@@ -13,7 +13,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "",
+    "author": "kroc823",
     "license": "ISC",
     "dependencies": {
         "chalk": "^4.0.0",
@@ -21,6 +21,7 @@
         "commander": "^5.1.0",
         "figlet": "^1.4.0",
         "inquirer": "^7.1.0",
+        "npm": "^6.14.5",
         "ora": "^4.0.4",
         "shelljs": "^0.8.4"
     }

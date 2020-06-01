@@ -1,6 +1,10 @@
-# nec-cli
-### 安装
+# @kroc823/nec
+![npm](https://img.shields.io/npm/v/@kroc823/nec)
+# 安装
 ```
-npm install nec-cli -g
+npm install @kroc823/nec -g
 ```
-一个基于node的cli工具
+# 应用
+```
+nec init project-name
+```
